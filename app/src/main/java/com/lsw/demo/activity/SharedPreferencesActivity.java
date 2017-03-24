@@ -1,4 +1,4 @@
-package com.lsw.demo;
+package com.lsw.demo.activity;
 
 import android.content.SharedPreferences;
 import android.support.v7.app.AppCompatActivity;
@@ -6,6 +6,8 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
+
+import com.lsw.demo.R;
 
 public class SharedPreferencesActivity extends AppCompatActivity {
 

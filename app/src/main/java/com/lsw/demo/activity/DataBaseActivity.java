@@ -1,4 +1,4 @@
-package com.lsw.demo;
+package com.lsw.demo.activity;
 
 import android.content.ContentValues;
 import android.database.Cursor;
@@ -8,6 +8,8 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
+
+import com.lsw.demo.R;
 
 public class DataBaseActivity extends AppCompatActivity {
 

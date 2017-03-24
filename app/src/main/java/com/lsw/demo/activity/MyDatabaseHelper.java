@@ -1,4 +1,4 @@
-package com.lsw.demo;
+package com.lsw.demo.activity;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;

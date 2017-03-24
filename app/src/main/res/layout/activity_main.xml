@@ -28,4 +28,12 @@
         android:textAllCaps="false"
         />
 
+    <Button
+        android:id="@+id/LitePal_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LitePal使用"
+        android:textAllCaps="false"
+        />
+
 </LinearLayout>
